@@ -1,6 +1,6 @@
-# Interview Cake Problems
+# Interview Cake
 
-This repository contains my solutions to the problems found on [Interview Cake](https://www.interviewcake.com/all-questions/javascript).
+This repository contains my solutions to the problems found on [Interview Cake](https://www.interviewcake.com/all-questions/javascript):
 
 |#|Problem|Solution|
 |---|---|---|
