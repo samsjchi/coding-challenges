@@ -1,4 +1,4 @@
-# Coderbyte
+# freeCodeCamp
 
 This repository contains my solutions to the algorithm scripting problems found on [freeCodeCamp](https://learn.freecodecamp.org/):
 
