@@ -7,7 +7,7 @@ This repository contains my solutions to the algorithm scripting problems found 
 |1|[Convert Celsius to Fahrenheit](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)|[01-convert-celsius-to-fahrenheit.js](basic/01-convert-celsius-to-fahrenheit.js)|Basic|
 |2|[Reverse a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)|[02-reverse-a-string.js](basic/02-reverse-a-string.js)|Basic|
 |3|[Factorialize a Number](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)|[03-factorialize-a-number.js](basic/03-factorialize-a-number.js)|Basic|
-|4|[Find the Longest Word in a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)||Basic|
+|4|[Find the Longest Word in a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)|[04-find-the-longest-word.js](basic/04-find-the-longest-word.js)|Basic|
 |5|[Return Largest Numbers in Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)||Basic|
 |6|[Confirm the Ending](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending)||Basic|
 |7|[Repeat a String Repeat a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)||Basic|
