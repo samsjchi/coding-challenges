@@ -14,8 +14,8 @@ This repository contains my solutions to the algorithm scripting problems found 
 |8|[Truncate a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)|[08-truncate-a-string.js](basic/08-truncate-a-string.js)|Basic|
 |9|[Finders Keepers](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)|[09-finders-keepers.js](basic/09-finders-keepers.js)|Basic|
 |10|[Boo who](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)|[10-boo-who.js](basic/10-boo-who.js)|Basic|
-|11|[Title Case a Sentence](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)|11-title-case-a-sentence.js](basic/11-title-case-a-sentence.js)|Basic|
-|12|[Slice and Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)||Basic|
+|11|[Title Case a Sentence](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)|[11-title-case-a-sentence.js](basic/11-title-case-a-sentence.js)|Basic|
+|12|[Slice and Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)|[12-slice-and-splice.js](basic/12-slice-and-splice.js)|Basic|
 |13|[Falsy Bouncer](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)||Basic|
 |14|[Where do I Belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)||Basic|
 |15|[Mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)||Basic|
