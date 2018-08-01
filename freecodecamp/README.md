@@ -16,7 +16,11 @@ This repository contains my solutions to the algorithm scripting problems found 
 |10|[Boo who](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)|[10-boo-who.js](basic/10-boo-who.js)|Basic|
 |11|[Title Case a Sentence](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)|[11-title-case-a-sentence.js](basic/11-title-case-a-sentence.js)|Basic|
 |12|[Slice and Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)|[12-slice-and-splice.js](basic/12-slice-and-splice.js)|Basic|
-|13|[Falsy Bouncer](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)||Basic|
-|14|[Where do I Belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)||Basic|
-|15|[Mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)||Basic|
-|16|[Chunky Monkey](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)||Basic|
+|13|[Falsy Bouncer](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)|[13-falsy-bouncer.js](basic/13-falsy-bouncer.js)|Basic|
+|14|[Where do I Belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)|[14-where-do-i-belong.js](basic/14-where-do-i-belong.js)|Basic|
+|15|[Mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)|[15-mutations.js](basic/15-mutations.js)|Basic|
+|16|[Chunky Monkey](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)|[16-chunky-monkey.js](basic/16-chunky-monkey.js)|Basic|
+|1|[Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range/)|[01-sum-all.js](intermediate/01-sum-all.js)|Intermediate|
+|2|[Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays/)|[02-diff-two-arrays.js](intermediate/02-diff-two-arrays.js)|Intermediate|
+|3|[Seek and Destroy](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy/)|[03-seek-and-destroy.js](intermediate/03-seek-and-destroy.js)|Intermediate|
+|4|[Wherefore art thou](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou/)|[04-wherefore-art-thou.js](intermediate/04-wherefore-art-thou.js)|Intermediate|
