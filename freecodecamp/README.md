@@ -36,3 +36,4 @@ This repository contains my solutions to the algorithm scripting problems found 
 |14|[Smallest Commmon Multiple](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/smallest-common-multiple)|[14-smallest-common-multiple.js](intermediate/14-smallest-common-multiple.js)|Intermediate|
 |15|[Drop It](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)|[15-drop-it.js](intermediate/15-drop-it.js)|Intermediate|
 |16|[Steamroller](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)|[16-steamroller.js](intermediate/16-steamroller.js)|Intermediate|
+|17|[Binary Agents](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)|[17-binary-agents.js](intermediate/17-binary-agents.js)|Intermediate|
