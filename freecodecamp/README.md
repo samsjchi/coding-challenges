@@ -37,3 +37,7 @@ This repository contains my solutions to the algorithm scripting problems found 
 |15|[Drop It](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/drop-it)|[15-drop-it.js](intermediate/15-drop-it.js)|Intermediate|
 |16|[Steamroller](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/steamroller)|[16-steamroller.js](intermediate/16-steamroller.js)|Intermediate|
 |17|[Binary Agents](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/binary-agents)|[17-binary-agents.js](intermediate/17-binary-agents.js)|Intermediate|
+|18|[Everything Be True](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/everything-be-true)|[18-everything-be-true.js](intermediate/18-everything-be-true.js)|Intermediate|
+|19|[Arguments Optional](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional)|[19-arguments-optional.js](intermediate/19-arguments-optional.js)|Intermediate|
+|20|[Make a Person](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person)|[20-make-a-person.js](intermediate/20-make-a-person.js)|Intermediate|
+|21|[Map the Debris](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)|[21-map-the-debris.js](intermediate/21-map-the-debris.js)|Intermediate|
