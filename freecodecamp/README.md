@@ -41,3 +41,4 @@ This repository contains my solutions to the algorithm scripting problems found 
 |19|[Arguments Optional](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/arguments-optional)|[19-arguments-optional.js](intermediate/19-arguments-optional.js)|Intermediate|
 |20|[Make a Person](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/make-a-person)|[20-make-a-person.js](intermediate/20-make-a-person.js)|Intermediate|
 |21|[Map the Debris](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/map-the-debris)|[21-map-the-debris.js](intermediate/21-map-the-debris.js)|Intermediate|
+|1|[Palindrome Checker](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)|[01-palindrome-checker.js](advanced/01-palindrome-checker.js)|Advanced|
